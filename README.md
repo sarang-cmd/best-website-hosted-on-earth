@@ -19,7 +19,7 @@
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-- [Why Did I Make This](#why-did-i-make-this)
+- [Why Did I Make This?](#why-did-i-make-this)
 - [Easter Eggs](#-easter-eggs)
 - [Design Principles](#design-principles)
   - [1. Maximum Visual Noise](#1-maximum-visual-noise)
@@ -68,7 +68,7 @@ Or drag `index.html` directly into a browser window.
 
 ---
 
-## Why Did I Make This
+## Why Did I Make This?
 
 Honestly? I was bored.
 
