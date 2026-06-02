@@ -1,4 +1,4 @@
-# 🌟 MY AWESOME HOMEPAGE
+# 🌟 BEST WEBSITE HOSTED ON EARTH!
 
 > *A satirical, single-file recreation of the spirit of [badhtml.com](http://badhtml.com) - an ironic celebration of every web design anti-pattern from 1994–2005, packed into one glorious, eye-watering page.*
 
