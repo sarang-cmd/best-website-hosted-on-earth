@@ -2,7 +2,7 @@
 
 > *A satirical, single-file recreation of the spirit of [badhtml.com](http://badhtml.com) - an ironic celebration of every web design anti-pattern from 1994–2005, packed into one glorious, eye-watering page.*
 
-![Live Demo](https://img.shields.io/badge/⭐_LIVE_DEMO-best--website--hosted--on--earth.netlify.app-ff00ff?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/⭐_LIVE_DEMO-best--website--hosted--on--earth.netlify.app-ff00ff?style=for-the-badge)](https://best-website-hosted-on-earth.netlify.app/)
 [![Repo](https://img.shields.io/badge/GitHub-sarang--cmd%2Fbest--website--hosted--on--earth-181717?style=for-the-badge&logo=github)](https://github.com/sarang-cmd/best-website-hosted-on-earth)
 
 ![HTML](https://img.shields.io/badge/HTML-4.01_Transitional-orange?style=flat-square&logo=html5)
