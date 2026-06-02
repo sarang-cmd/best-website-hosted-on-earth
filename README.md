@@ -1,6 +1,6 @@
 # 🌟 MY AWESOME HOMEPAGE
 
-> *A satirical, single-file recreation of the spirit of [badhtml.com](http://badhtml.com) — an ironic celebration of every web design anti-pattern from 1994–2005, packed into one glorious, eye-watering page.*
+> *A satirical, single-file recreation of the spirit of [badhtml.com](http://badhtml.com) - an ironic celebration of every web design anti-pattern from 1994–2005, packed into one glorious, eye-watering page.*
 
 ![Live Demo](https://img.shields.io/badge/⭐_LIVE_DEMO-best--website--hosted--on--earth.netlify.app-ff00ff?style=for-the-badge)
 [![Repo](https://img.shields.io/badge/GitHub-sarang--cmd%2Fbest--website--hosted--on--earth-181717?style=for-the-badge&logo=github)](https://github.com/sarang-cmd/best-website-hosted-on-earth)
@@ -48,7 +48,7 @@ This project is a single-file HTML page built as a full comedic recreation of th
 
 The premise: you are a 15-year-old in 1999 who just discovered every CSS property in a single afternoon and decided to use all of them simultaneously.
 
-Everything here is intentional. Every broken layout, every invisible text section, every unsolicited JavaScript alert — all of it is a deliberate, committed recreation of how people actually built websites before web standards existed.
+Everything here is intentional. Every broken layout, every invisible text section, every unsolicited JavaScript alert - all of it is a deliberate, committed recreation of how people actually built websites before web standards existed.
 
 ---
 
@@ -72,9 +72,9 @@ Or drag `index.html` directly into a browser window.
 
 Honestly? I was bored.
 
-The slightly longer answer: I wanted to see how far a single HTML file could go when every constraint modern web development imposes — accessibility, semantics, performance, readability, responsive design — is not just ignored but actively reversed. It's one thing to know that `<font>` tags are bad. It's another to build an entire page with them and feel why they're bad.
+The slightly longer answer: I wanted to see how far a single HTML file could go when every constraint modern web development imposes - accessibility, semantics, performance, readability, responsive design - is not just ignored but actively reversed. It's one thing to know that `<font>` tags are bad. It's another to build an entire page with them and feel why they're bad.
 
-There's also something genuinely useful in committing to a satirical brief at full fidelity. The prompt was specific: every anti-pattern, all at once, no apologies, no winking at the camera inside the code. That's harder than it sounds. The temptation is always to leave yourself an escape hatch — a comment that says "this is intentional", a clean variable name in the JS. Resisting that and fully inhabiting the voice of a 15-year-old in 1999 who just discovered `marquee` and `blink` is its own kind of discipline.
+There's also something genuinely useful in committing to a satirical brief at full fidelity. The prompt was specific: every anti-pattern, all at once, no apologies, no winking at the camera inside the code. That's harder than it sounds. The temptation is always to leave yourself an escape hatch - a comment that says "this is intentional", a clean variable name in the JS. Resisting that and fully inhabiting the voice of a 15-year-old in 1999 who just discovered `marquee` and `blink` is its own kind of discipline.
 
 It also just looks completely unhinged in a browser and that's funny.
 
@@ -103,7 +103,7 @@ No destination. No context. Clicking it fires an `alert()` that acknowledges it 
 
 ### 2. The Subscriber Alert Lie
 
-The newsletter subscribe button in the sidebar promises no spam three times in the same sentence — then immediately contradicts itself:
+The newsletter subscribe button in the sidebar promises no spam three times in the same sentence - then immediately contradicts itself:
 
 ```html
 <input type="button" value="SUBSCRIBE!!"
@@ -122,7 +122,7 @@ The sidebar weather widget is labeled `Dresden, DE` with a temperature of `9999�
 
 ---
 
-### 4. The Guestbook Has Zero Entries — And Knows It
+### 4. The Guestbook Has Zero Entries - And Knows It
 
 ```html
 <i>0 entries so far... be teh FIRST!!!!</i>
@@ -152,7 +152,7 @@ The author has a professional alias (`WebMaster2000`) and a real name (`sarang`)
 
 ---
 
-### 7. The Broken Section Has Four TODO Comments — All Useless
+### 7. The Broken Section Has Four TODO Comments - All Useless
 
 ```html
 <!-- TODO add content here -->
@@ -165,7 +165,7 @@ The fourth TODO (`find out what CSS is`) is written in a file that already conta
 
 ---
 
-### 8. The Copyright Starts in 1997 — The Site Was "Built in 1999"
+### 8. The Copyright Starts in 1997 - The Site Was "Built in 1999"
 
 ```html
 © 1997–2026 MY AWESOME WEBSITE.
@@ -228,7 +228,7 @@ The donation appeal escalates from altruism (`keep this site alive`) to economic
 </audio>
 ```
 
-Both source files — `midimusic.mp3` and `backgroundmusic.ogg` — point to nonexistent local paths. The player renders, autoplays nothing, and loops the silence infinitely. The fallback message reads: *"You need to download teh plugin!!!"*
+Both source files - `midimusic.mp3` and `backgroundmusic.ogg` - point to nonexistent local paths. The player renders, autoplays nothing, and loops the silence infinitely. The fallback message reads: *"You need to download teh plugin!!!"*
 
 ---
 
@@ -286,7 +286,7 @@ Pager: 555-1337   beep me after 9pm plz!!!
      width="50" height="50">
 ```
 
-No `alt` attribute. The declared dimensions are `1200×1200` shrunk to `50×50` inline. The URL points to a GeoCities path that would have 404'd even in 1999. The caption below it reads: *"picture loading... please wait... 56k modem warning!!!"* — which is accurate, because it will never finish loading.
+No `alt` attribute. The declared dimensions are `1200×1200` shrunk to `50×50` inline. The URL points to a GeoCities path that would have 404'd even in 1999. The caption below it reads: *"picture loading... please wait... 56k modem warning!!!"* - which is accurate, because it will never finish loading.
 
 ---
 
@@ -337,7 +337,7 @@ There is no banner below it. There is no banner anywhere on the page. The iPod i
 
 ### 22. Three `<br><br><br>` Gaps Are Used as Section Dividers
 
-Rather than margins, padding, or `<hr>` tags, the space between every major content section is created with raw `<br><br><br>` line breaks. This was standard practice in 1999 because nobody had explained that CSS had a `margin` property. The gaps are irregular — some sections get two breaks, some get three — creating the sensation that the page was assembled by hand with a ruler that kept slipping.
+Rather than margins, padding, or `<hr>` tags, the space between every major content section is created with raw `<br><br><br>` line breaks. This was standard practice in 1999 because nobody had explained that CSS had a `margin` property. The gaps are irregular - some sections get two breaks, some get three - creating the sensation that the page was assembled by hand with a ruler that kept slipping.
 
 ---
 
@@ -364,7 +364,7 @@ The site contains no Pokémon. It contains no anime characters. It contains no t
 
 ### 25. The `<audio>` Element Is Set to `autoplay loop` But Has No Source
 
-The audio section headlines itself as *"🎵 PLEASE ENJOY THE MIDI MUSIC WHILE YOU BROWSE!! 🎵"* — `autoplay` and `loop` are both set — but both `<source>` paths (`midimusic.mp3`, `backgroundmusic.ogg`) are local filenames that don't exist. The browser renders a fully functional audio control bar playing infinite silence on a loop, which may be the most accurate metaphor for the whole page.
+The audio section headlines itself as *"🎵 PLEASE ENJOY THE MIDI MUSIC WHILE YOU BROWSE!! 🎵"* - `autoplay` and `loop` are both set - but both `<source>` paths (`midimusic.mp3`, `backgroundmusic.ogg`) are local filenames that don't exist. The browser renders a fully functional audio control bar playing infinite silence on a loop, which may be the most accurate metaphor for the whole page.
 
 
 
@@ -373,7 +373,7 @@ The audio section headlines itself as *"🎵 PLEASE ENJOY THE MIDI MUSIC WHILE Y
 
 ### 1. Maximum Visual Noise
 
-Every decision prioritises stimulation over communication. The background is a `repeating-linear-gradient` cycling through five fully clashing hues — magenta, cyan, yellow, orange, and red — at a 45° angle, with a `@keyframes bgShift` animation using `hue-rotate` to shift those colors in an infinite loop.
+Every decision prioritises stimulation over communication. The background is a `repeating-linear-gradient` cycling through five fully clashing hues - magenta, cyan, yellow, orange, and red - at a 45° angle, with a `@keyframes bgShift` animation using `hue-rotate` to shift those colors in an infinite loop.
 
 ```css
 body {
@@ -416,7 +416,7 @@ Section headings range from `8px` to `64px` with no consistent color or weight. 
 
 ### 3. Table-Only Layout
 
-The entire page structure — header, navigation bar, two-column content area with sidebar, and footer — is built exclusively using `<table>` elements. No flexbox. No grid. Ever.
+The entire page structure - header, navigation bar, two-column content area with sidebar, and footer - is built exclusively using `<table>` elements. No flexbox. No grid. Ever.
 
 ```html
 <!-- Outer wrapper -->
@@ -438,7 +438,7 @@ The entire page structure — header, navigation bar, two-column content area wi
 </table>
 ```
 
-The sidebar's fixed `width="200"` deliberately breaks the layout at any viewport narrower than ~800px — exactly as intended. The "Cool Links" section nests **three `<table>` elements inside each other** to render a plain unordered list, for absolutely no structural reason.
+The sidebar's fixed `width="200"` deliberately breaks the layout at any viewport narrower than ~800px - exactly as intended. The "Cool Links" section nests **three `<table>` elements inside each other** to render a plain unordered list, for absolutely no structural reason.
 
 ---
 
@@ -460,7 +460,7 @@ At least six `@keyframes` rulesets run simultaneously at any given moment:
 
 ### 5. Color Contrast as Anti-Pattern
 
-One entire section is dedicated to demonstrating zero readable contrast — three separate violations in a single `<td>`:
+One entire section is dedicated to demonstrating zero readable contrast - three separate violations in a single `<td>`:
 
 ```html
 <!-- Yellow text on white background -->
@@ -491,7 +491,7 @@ The file commits fully to pre-standards markup:
 - `<table>` where a `<nav>` belongs
 - `<div onclick="...">` where a `<button>` belongs
 - An `<img>` with **no `alt` attribute**, declared `1200×1200px` but rendered at `width="50" height="50"` inline
-- `<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">` — the transitional doctype that explicitly permits loose, presentation-heavy markup
+- `<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">` - the transitional doctype that explicitly permits loose, presentation-heavy markup
 
 The following comment appears verbatim in the `<head>`:
 
@@ -531,7 +531,7 @@ setTimeout(() => {
   alert("DON'T FORGET TO BOOKMARK THIS PAGE!! Press CTRL+D NOW!!!!");
 }, 3000);
 
-// Fires after 8 seconds — picks a random message
+// Fires after 8 seconds - picks a random message
 setTimeout(() => {
   const msgs = [
     "OMFG ARE U STILL READING??? U MUST REALLY LOVE MY SITE!!! :D",
@@ -544,8 +544,8 @@ setTimeout(() => {
 
 Two `setInterval` loops also run continuously in the background:
 
-- **Every 1,500ms** — cycles `document.title` through six different tab titles so the browser tab is never calm
-- **Every 2,000ms** — cycles the fixed bottom-left popup `<div>` through messages like `"YOU ARE THE 1,000,000TH VISITOR!!!"` and `"CLICK THE BANNER BELOW TO WIN A FREE iPod!!!"`
+- **Every 1,500ms** - cycles `document.title` through six different tab titles so the browser tab is never calm
+- **Every 2,000ms** - cycles the fixed bottom-left popup `<div>` through messages like `"YOU ARE THE 1,000,000TH VISITOR!!!"` and `"CLICK THE BANNER BELOW TO WIN A FREE iPod!!!"`
 
 The **Surprise button** picks three random colors from a 15-item garish array, applies a new `repeating-linear-gradient` to `document.body.style.backgroundImage`, then fires yet another `alert()`:
 
@@ -566,7 +566,7 @@ function doSurprise() {
 
 ### 9. Inline Styles Mixed with a Stylesheet
 
-A `<style>` block in `<head>` defines classes for animations, structural layout, and fonts. Then `style="..."` attributes on nearly every element override, duplicate, and contradict those classes. Both approaches are used on the same element throughout the file — exactly how Microsoft FrontPage 2000 generated code.
+A `<style>` block in `<head>` defines classes for animations, structural layout, and fonts. Then `style="..."` attributes on nearly every element override, duplicate, and contradict those classes. Both approaches are used on the same element throughout the file - exactly how Microsoft FrontPage 2000 generated code.
 
 ---
 
@@ -751,9 +751,9 @@ index.html
 │   └── <style> (all @keyframes + class definitions)
 │
 └── <body>
-    ├── Marquee bar 1 — "🚧 UNDER CONSTRUCTION 🚧"
-    ├── Marquee bar 2 — "YOU ARE VISITOR NUMBER 000001337"
-    ├── Marquee bar 3 — "BEST VIEWED IN IE 6.0"
+    ├── Marquee bar 1 - "🚧 UNDER CONSTRUCTION 🚧"
+    ├── Marquee bar 2 - "YOU ARE VISITOR NUMBER 000001337"
+    ├── Marquee bar 3 - "BEST VIEWED IN IE 6.0"
     │
     ├── Outer <table> width="95%" border="5" (red border)
     │   ├── [Row 1] Header <table>
@@ -777,12 +777,12 @@ index.html
 | About Me | Papyrus | Diary entry, bold+italic+underline same sentence |
 | Cool Links | Courier New | Triple-nested `<table>`, raw GeoCities URLs |
 | Today's Joke | Comic Sans | Spinning emoji `@keyframes`, terrible pun |
-| Bad Contrast | Mixed | Yellow/white, red/darkred, blue/black — all unreadable |
+| Bad Contrast | Mixed | Yellow/white, red/darkred, blue/black - all unreadable |
 | Under Construction | Impact | 80px pulsing 🚧, blinking red warning |
 | My Awards | Impact | 4 fake CSS badges, pulsing `@keyframes` |
 | My Pets | Comic Sans | `<img>` no `alt`, 1200px declared → 50px rendered |
 | Surprise Button | Impact | `doSurprise()` randomises background gradient |
-| Broken Placeholder | Courier New | `CONTENT GOES HERE — maybe` |
+| Broken Placeholder | Courier New | `CONTENT GOES HERE - maybe` |
 | Contact Me | Arial Black | AIM, MSN, ICQ, Yahoo Messenger, Pager number |
 | Sidebar | Comic Sans | Hit counter, fake weather, guestbook, newsletter, MySpace |
 | Footer | Courier New | Fake world map, compat badges, `Page last updated: NEVER` |
